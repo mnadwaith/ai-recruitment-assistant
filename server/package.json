@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is the server of AI recruitment assistant.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
