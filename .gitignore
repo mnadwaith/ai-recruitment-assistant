@@ -3,3 +3,6 @@
 
 # ignore environment variable files anywhere
 **/.env
+
+# ignore temp_uploads directory
+**/temp_uploads/
